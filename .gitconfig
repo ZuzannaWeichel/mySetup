@@ -1,0 +1,8 @@
+[alias]
+  co = checkout
+  com = commit -m
+  st = status
+  br = branch
+[user]
+	name = zuzanna.weichel
+	email = zuzanna.weichel@accenture.com
